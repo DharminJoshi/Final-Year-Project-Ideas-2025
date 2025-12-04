@@ -114,6 +114,8 @@ Browse through the list below to explore diverse project ideas. Feel free to pic
 | 98  | Accessible Voting Assistance App                             | Provide guides, reminders, and support for voters with disabilities. | Beginner |
 | 99  | Local Language Speech-to-Text App                            | Convert speech to text in regional languages for better accessibility. | Advanced |
 | 100 | Public Space Cleanliness Reporting App                       | Report and track cleanliness issues in parks, streets, and public facilities. | Intermediate |
+Bonus
+| 101 | Ambulance management system                                  | Facilitates real-time incident reporting, assignment, inventory management, and automated dispatch processes. | Intermediate |
 
 ---
 
